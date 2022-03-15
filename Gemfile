@@ -38,6 +38,9 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'capybara'
   gem 'rails-controller-testing'
+  gem 'pry'
+  gem 'awesome_print'
+  gem 'table_print'
 end
 
 group :development do
